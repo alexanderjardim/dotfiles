@@ -1,1 +1,0 @@
-/home/theweirdfox/dev/dotfiles/i3/scripts/workspace_terminal.py
